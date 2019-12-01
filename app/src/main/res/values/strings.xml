@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AwsRdsSearchDemo</string>
+    <string name="inspection_id">Inspection id</string>
+    <string name="dba_name">DBA name</string>
+    <string name="aka_name">AKA name</string>
+    <string name="license_num">License number</string>
+    <string name="facility_type">Facility type</string>
+    <string name="risk">Risk</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="zip">Zip</string>
+    <string name="inspection_date">Inspection date</string>
+    <string name="inspection_type">Inspection type</string>
+    <string name="results">Results</string>
+    <string name="violations">Violations</string>
+    <string name="location">Location</string>
+    <string name="empty"></string>
+    <string name="instructions">Type in text, click a button to search</string>
+</resources>
